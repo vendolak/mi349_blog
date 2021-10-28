@@ -20,6 +20,14 @@ p {
     line-height: 1.4 em;
 }
 
+#dog1 {
+    color:rgb(26, 71, 36);
+}
+
+#dog2 {
+    color:rgb(26, 54, 71);
+}
+
 #blog {
     border-top: 1px dotted rgb(146, 252, 146);
 }
