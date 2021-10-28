@@ -32,12 +32,8 @@ p {
     color:rgb(26, 54, 71);
 }
 
-a[src] {
+img[src] {
     padding: 20px;
     background: black;
 }
 
-img {
-    padding: 10px;
-    background: rgb(135, 217, 238);
-}
