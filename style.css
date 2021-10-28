@@ -1,13 +1,13 @@
 html {
-    background:lightgray;
+    background:rgb(226, 231, 199);
 }
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 40px;
-    color:grey;
+    color:rgb(58, 58, 58);
     padding: 40px;
-    border-top: 10px solid lightgreen;
+    border-top: 10px solid rgb(146, 252, 146);
     background:white;
 }
 
@@ -21,9 +21,9 @@ p {
 }
 
 #blog {
-    border-top: 1px dotted lightgreen;
+    border-top: 1px dotted rgb(146, 252, 146);
 }
 
 .blog-post{
-    border-bottom: 1px dotted lightgreen;
+    border-bottom: 1px dotted rgb(146, 252, 146);
 }
