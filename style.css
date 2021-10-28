@@ -7,7 +7,7 @@ body {
     margin: 40px;
     color:rgb(58, 58, 58);
     padding: 40px;
-    border-top: 10px solid rgb(146, 252, 146);
+    border-top: 10px solid rgb(66, 166, 190);
     background:white;
 }
 
@@ -21,17 +21,13 @@ p {
 }
 
 #dog1 {
-    color:rgb(26, 71, 36);
+    color:rgb(37, 88, 121);
 }
 
 #dog2 {
+    color:rgb(37, 88, 121);
+}
+
+#meet {
     color:rgb(26, 54, 71);
-}
-
-#blog {
-    border-top: 1px dotted rgb(146, 252, 146);
-}
-
-.blog-post{
-    border-bottom: 1px dotted rgb(146, 252, 146);
 }
