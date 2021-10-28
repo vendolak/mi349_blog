@@ -7,7 +7,8 @@ body {
     margin: 40px;
     color:grey;
     padding: 40px;
-    border-top: 10px solid white;
+    border-top: 10px solid lightgreen;
+    background:white;
 }
 
 h1 {
