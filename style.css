@@ -52,3 +52,10 @@ img[src] {
     padding: 10px;
     background: rgb(135, 217, 238);
 }
+
+.img-container{
+  background: rgb(135, 217, 238);
+  height: 50px;
+  width: 50px;
+  float: top; 
+}
