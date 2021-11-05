@@ -11,6 +11,12 @@ body {
     background:white;
 }
 
+.sticky {
+  background: green;
+  position: sticky;
+  top: 0;
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
