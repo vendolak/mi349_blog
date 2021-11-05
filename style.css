@@ -11,14 +11,6 @@ body {
     background:white;
 }
 
-.sticky {
-  color: white;
-  padding: 20px;
-  background: rgb(37, 88, 121);
-  position: sticky;
-  top: 0;
-}
-
 h1 {
     font-size: 3em;
     margin: 0;
@@ -53,9 +45,28 @@ img[src] {
     background: rgb(135, 217, 238);
 }
 
+.sticky {
+  color: white;
+  padding: 20px;
+  background: rgb(37, 88, 121);
+  position: sticky;
+  top: 0;
+}
+
 .img-container{
-  background: rgb(135, 217, 238);
+  background: rgb(26, 54, 71);
   height: 50px;
   width: 50px;
   float: top; 
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  background: rgb(135, 217, 238);
+  flex: 50%;
+  padding: 20px;
+  margin: 10px;
 }
