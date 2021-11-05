@@ -11,9 +11,13 @@ body {
     background:white;
 }
 
-  <div class = "sticky"> 
-    Hello! I am a non-distracting sticky header, full of very non-distracting and totally relevant sticky header text. Wow, what a time to be alive!
-  </div>
+.sticky {
+  color: white;
+  padding: 20px;
+  background: rgb(37, 88, 121);
+  position: sticky;
+  top: 0;
+}
 
 h1 {
     font-size: 3em;
