@@ -73,6 +73,6 @@ img[src] {
 
 @media (max-width: 400px) {
     #hello-features {
-        background: red;
+        color: red;
     }
 }
