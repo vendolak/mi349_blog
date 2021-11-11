@@ -72,7 +72,7 @@ img[src] {
 }
 
 @media (max-width: 400px) {
-    body {
+    #hello-features {
         background: red;
     }
 }
